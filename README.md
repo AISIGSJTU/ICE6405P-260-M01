@@ -13,14 +13,14 @@
 | 章节            | 课件                                                         |
 | --------------- | ------------------------------------------------------------ |
 | 云计算概论 & 机器学习概论       | [Lecture 1 云计算概论 & 机器学习概论.pdf](./PDF_Slides/Lecture1_云计算概论&机器学习概论.pdf) |
-| 联邦学习概论                    | [Lecture2_联邦学习概论.pdf](./PDF_Slides/Lecture2_联邦学习概论.pdf) |
+| 联邦学习概论                    | [Lecture 2 联邦学习概论.pdf](./PDF_Slides/Lecture2_联邦学习概论.pdf) |
 | 联邦学习实操                    | / |
-| 联邦学习前沿                    | [Lecture3_联邦学习前沿.pdf](./PDF_Slides/Lecture3_联邦学习前沿.pdf) |
+| 联邦学习前沿                    | [Lecture 3 联邦学习前沿.pdf](./PDF_Slides/Lecture3_联邦学习前沿.pdf) |
 | 课程讲座（1）                   | / |
 | 联邦学习课程项目汇报（1）       | / |
-| 无服务器计算概论                |      |
+| 无服务器计算概论                | [Lecture4_无服务器计算概论.pdf](./PDF_Slides/Lecture4_无服务器计算概论.pdf) |
 | 无服务器计算实操                | / |
-| 无服务器计算前沿                |      |
+| 无服务器计算前沿                | [Lecture5_无服务器计算前沿.pdf](./PDF_Slides/Lecture5_无服务器计算前沿.pdf) |
 | 课程讲座（2）                   |      |
 | 无服务器计算机课程项目汇报（2） | / |
 | 量子计算概论                    |      |
@@ -36,7 +36,7 @@
 | 章节            | 课件                                                         |
 | --------------- | ------------------------------------------------------------ |
 | 联邦学习实操 | [HandsOn-Federated_Learning_Lab.pdf](./PDF_Slides/HandsOn-Federated_Learning_Lab.pdf) |
-| 无服务器计算实操 |      |
+| 无服务器计算实操 | [HandsOn-Serverless_Computing_Lab.pdf](./PDF_Slides/HandsOn-Serverless_Computing_Lab.pdf) |
 | 量子计算实操 |  |
 
 
