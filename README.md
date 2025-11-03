@@ -18,15 +18,15 @@
 | 联邦学习前沿                    | [Lecture 3 联邦学习前沿.pdf](./PDF_Slides/Lecture3_联邦学习前沿.pdf) |
 | 课程讲座（1）                   | / |
 | 联邦学习课程项目汇报（1）       | / |
-| 无服务器计算概论                | [Lecture4_无服务器计算概论.pdf](./PDF_Slides/Lecture4_无服务器计算概论.pdf) |
+| 无服务器计算概论                | [Lecture 4 无服务器计算概论.pdf](./PDF_Slides/Lecture4_无服务器计算概论.pdf) |
 | 无服务器计算实操                | / |
-| 无服务器计算前沿                | [Lecture5_无服务器计算前沿.pdf](./PDF_Slides/Lecture5_无服务器计算前沿.pdf) |
-| 课程讲座（2）                   |      |
+| 无服务器计算前沿                | [Lecture 5 无服务器计算前沿.pdf](./PDF_Slides/Lecture5_无服务器计算前沿.pdf) |
+| 课程讲座（2）                   | / |
 | 无服务器计算机课程项目汇报（2） | / |
-| 量子计算概论                    |      |
+| 量子计算概论                    | [Lecture 6 量子计算概论.pdf](./PDF_Slides/Lecture6_量子计算概论.pdf) |
 | 量子计算实操                    | / |
-| 量子计算前沿                    |      |
-| 课程讲座（3）                   |  |
+| 量子计算前沿                    | [Lecture 7 量子计算前沿.pdf](./PDF_Slides/Lecture7_量子计算前沿.pdf) |
+| 课程讲座（3）                   | / |
 | 量子计算课程项目汇报（3）       | / |
 
 
