@@ -37,7 +37,7 @@
 | --------------- | ------------------------------------------------------------ |
 | 联邦学习实操 | [HandsOn-Federated_Learning_Lab.pdf](./PDF_Slides/HandsOn-Federated_Learning_Lab.pdf) |
 | 无服务器计算实操 | [HandsOn-Serverless_Computing_Lab.pdf](./PDF_Slides/HandsOn-Serverless_Computing_Lab.pdf) |
-| 量子计算实操 |  |
+| 量子计算实操 | [HandsOn-Quantum_Machine_Learning_Lab.pdf](./PDF_Slides/HandsOn-Quantum_Machine_Learning_Lab.pdf) |
 
 
 
@@ -68,6 +68,3 @@
 - 作业提交：实验报告+源代码+必要的实验log数据+答辩ppt
 
 - Bonus: 在本地搭建Kubernetes集群和OpenWhisk或者KubeFaaS框架，基于该框架实现基本的无服务器计算任务。
-
-
-
